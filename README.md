@@ -1,1 +1,2 @@
-# cookies.education-content
+# Repository for content for cookies page
+
