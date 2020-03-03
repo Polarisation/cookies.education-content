@@ -61,8 +61,8 @@ Tracking protection provides some mechanism for blocking tracking cookies (and o
 
 We recommend you review the available cookie settings for your browser:
 
- - [Cookies settings in Firefox](./browser-settings-firefox.md)
- - [Cookies settings in Chrome](./browser-settings-chrome.md)
+ - [Cookies settings in Firefox](browser-settings/browser-settings-firefox.md)
+ - [Cookies settings in Chrome](browser-settings/browser-settings-chrome.md)
  - [Cookies settings in Edge](./browser-settings-edge.md)
  - [Cookies settings in Safari](./browser-settings-safari.md)
  - [Cookies settings in Opera](./browser-settings-opera.md)
