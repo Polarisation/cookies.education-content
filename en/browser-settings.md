@@ -48,14 +48,13 @@ In addition to viewing cookie stats per website, some browsers allow you to insp
 In some cases, it is not possible to view cookie data in the browser settings. However, you can do this using the web inspector, a tool provided for web developers. This makes it a little more difficult to inspect cookie data, but still possible.
 
 ### Delete cookies from a specific website
-Browsers typically allow you to remove the cookies for a particular website. Using the web inspector, you could remove specific cookies.
-
-### Send “Do Not Track”
-Browsers can send a “Do Not Track” signal to websites (as a HTTP Header). This is a convention used to tell websites that you do not wish to be tracked. However, it requires you to trust the website operator to follow this instruction, and not all do. So it is not truly effective at blocking tracking. However, the more responsible companies can take it as useful feedback if many people have Do Not Track enabled, so you may like to enable this feature.
+Browsers typically allow you to remove the cookies for a particular website. Using the web inspector, you could also remove specific cookies.
 
 ### Tracking Protection
 Tracking protection provides some mechanism for blocking tracking cookies (and other tracking methods). In-built tracking protection is often not as powerful as the protection provided by browser plugins, however it can still be fairly effective.
 
+### Send “Do Not Track”
+Browsers can send a “Do Not Track” signal to websites (as a HTTP Header). This is a convention used to tell websites that you do not wish to be tracked. However, it requires you to trust the website operator to follow this instruction, and not all do. So it is not truly effective at blocking tracking. However, the more responsible companies can take it as useful feedback if many people have Do Not Track enabled, so you may like to enable this feature.
 
 ## Browser settings by browser
 
