@@ -40,7 +40,7 @@ If you share our view that the interests of users takes priority over the intere
 
 Justin Emery
 
-Sebastian
+Sebastian Szwarc
 
 And... you? If we see a way we can improve the information we provide on this site, we’d love your help. See [Contributing](./contributing) to learn how you can help. 
 
