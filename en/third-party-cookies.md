@@ -1,6 +1,7 @@
 ---
 title: 'Third party tracking cookies and how they are used by the advertising industry | Cookies.education'
 next: 'cookie-rights'
+lang: en
 ---
 
 # Third party tracking cookies and how they are used by the advertising industry 

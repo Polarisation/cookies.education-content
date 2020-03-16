@@ -1,5 +1,6 @@
 ---
 title: "About Cookies.education"
+lang: en
 ---
 
 # About Cookies.education
