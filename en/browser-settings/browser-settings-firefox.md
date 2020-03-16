@@ -5,7 +5,7 @@ parent: 'browser-settings'
 
 # Controlling cookies in the Firefox web browser
 
-Firefox has good support for controlling cookies. It also has a healthy ecosystem of [Browser Add-ons](../browser-plugins.md) which can add additional capability to controlling cookies.
+Firefox has good support for controlling cookies. It also has a healthy ecosystem of [Browser Add-ons](../browser-extensions.md) which can add additional capability to controlling cookies.
 
 #### How to clear all cookies in Firefox
 
@@ -91,7 +91,7 @@ Beware that many websites load third party domains which set cookies, and you wo
 
 ### Enable Tracking Protection in Firefox
 
-Firefox has in-built tracking protection for Cookies and various other techniques (Tracking content, Cryptominers, and Fingerprinters). It is likely that you can get better tracking protection via the user of [Browser Add-ons](../browser-plugins.md), but the in-built tracking protection is a reasonable option.
+Firefox has in-built tracking protection for Cookies and various other techniques (Tracking content, Cryptominers, and Fingerprinters). It is likely that you can get better tracking protection via the user of [Browser Add-ons](../browser-extensions.md), but the in-built tracking protection is a reasonable option.
 
 To enable tracking protection:
 
@@ -113,6 +113,6 @@ To enable tracking protection:
 
 ### Next steps
 
-Now that you've mastered the cookie controls in Firefox, you may also like to consider [Browser Add-ons](../browser-plugins.md) to add further privacy protection.
+Now that you've mastered the cookie controls in Firefox, you may also like to consider [Browser Add-ons](../browser-extensions.md) to add further privacy protection.
 
 

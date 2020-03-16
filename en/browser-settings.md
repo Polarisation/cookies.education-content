@@ -67,4 +67,4 @@ We recommend you review the available cookie settings for your browser:
  - [Cookies settings in Opera](./browser-settings-opera.md)
 
 
-Afterwards, we recommend you look at our page on [Browser Plugins](./browser-plugins.md) to enhance the cookie-related features available in your browser.
+Afterwards, we recommend you look at our page on [Browser Plugins](browser-extensions.md) to enhance the cookie-related features available in your browser.
