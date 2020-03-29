@@ -1,7 +1,7 @@
 ---
 next: 'browser-settings'
 title: 'Controlling cookies | Cookies.education'
-lang: en
+lang: 'en'
 ---
 
 # Controlling cookies

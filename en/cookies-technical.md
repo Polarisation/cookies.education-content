@@ -1,6 +1,7 @@
 ---
 next: 'cookie-types'
 title: 'HTTP Cookies: the technical details  | Cookies.education'
+lang: 'en'
 ---
 
 *This page is for people who want to get an in-depth technical understanding of cookies on the web. It is provided for those who would not be satisfied by a high-level conceptual description, and prefer to understand the technical details. For most people, our non-technical page, [What are Web Cookies?](./cookies-definition.md), will be more suitable. If you have some understanding of what HTML, URLs, and HTTP are, then read on...*

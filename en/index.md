@@ -1,6 +1,7 @@
 ---
 next: 'cookies-definition'
 title: 'What are website Cookies? Why should I care? | Cookies.education'
+lang: 'en'
 ---
 
 On almost every website you visit, you see a notice about cookies and may be asked to accept them. 

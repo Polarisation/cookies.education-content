@@ -1,6 +1,7 @@
 ---
 next: 'cookie-types'
 title: 'What are Web Cookies? | Cookies.education'
+lang: 'en'
 ---
 
 A cookie is a small piece of data stored on your device when you access a website. The cookie will then be sent to the website every time you visit it.
@@ -9,7 +10,7 @@ You may sometimes see cookies described as "files". This may or may not be corre
 
 Initially when you hear about cookies, you might become concerned that websites can store data on your computer. On a modern computer this is really nothing to worry about, since cookies are very small. Having said that, when you visit many websites the space taken up by cookies can add up, so if you are running low on space you can consider [deleting cookies](./browser-settings.md).
 
-The real concern about cookies is that they allow a website remember things about you (because they are sent back to the website when you visit it). Depending on how cookies are used, this may also be nothing to worry about. For example, if the cookie is storing your preferred currency when using an online store, this functionality is helpful to you as a user. But you might be concerned if the same website sets a cookie to identify you as a high income customer, and then shows you higher prices than other visitors.
+The real concern about cookies is that they allow a website remember things about you (because they are sent back to the website when you visit it). Depending on how cookies are used, this may also be nothing to worry about. For example, if the cookie is storing your preferred currency when using an on-line store, this functionality is helpful to you as a user. But you might be concerned if the same website sets a cookie to identify you as a high income customer, and then shows you higher prices than other visitors.
 
 You might be reading this because you want to know if cookies are good or "evil". Like most things in life, it's not that simple: it depends how they are used. Cookies can be used for a wide variety of purposes, including saving your preferences, keeping a virtual shopping cart, improving security, keeping you logged in, and tracking you to gather data.
 
