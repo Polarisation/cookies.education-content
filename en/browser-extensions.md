@@ -1,6 +1,6 @@
 ---
 title: 'Browser extensions / add-ons / plug-ins for controlling cookies | Cookies.education'
-lang: en
+lang: 'en'
 ---
 
 # Browser Extensions for Controlling Cookies

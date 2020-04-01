@@ -1,6 +1,7 @@
 ---
 title: 'Controlling cookies in the Firefox web browser | Cookies.education'
 parent: 'browser-settings'
+lang: 'en'
 ---
 
 # Controlling cookies in the Firefox web browser
