@@ -1,7 +1,7 @@
 ---
 next: 'controlling-cookies'
 title: 'Your rights and website cookies | Cookies.education'
-lang: en
+lang: 'en'
 ---
 
 # Your rights
