@@ -1,5 +1,5 @@
 ---
-title: 'Privacy & Cookies' | Cookies.education'
+title: 'Privacy & Cookies | Cookies.education'
 lang: 'en'
 ---
 
