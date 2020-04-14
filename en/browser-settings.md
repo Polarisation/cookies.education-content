@@ -1,5 +1,6 @@
 ---
 title: 'Controlling cookies in your web browser | Cookies.education'
+shortname: 'Browser Settings'
 next: 'browser-plugins'
 lang: 'en'
 ---

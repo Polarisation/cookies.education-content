@@ -1,6 +1,7 @@
 ---
 next: 'controlling-cookies'
 title: 'Your rights and website cookies | Cookies.education'
+shortname: 'Cookies Laws & Your Rights'
 lang: 'en'
 ---
 

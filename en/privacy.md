@@ -1,5 +1,6 @@
 ---
 title: 'Privacy & Cookies | Cookies.education'
+shortname: 'Privacy & Cookies'
 lang: 'en'
 ---
 

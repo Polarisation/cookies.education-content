@@ -1,5 +1,6 @@
 ---
 lang: 'en'
-title: 'Contributing to this site'
+title: 'Contributing to this site | Cookies.education'
+shortname: 'Contributing'
 ---
 

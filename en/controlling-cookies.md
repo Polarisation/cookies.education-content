@@ -1,6 +1,7 @@
 ---
 next: 'browser-settings'
 title: 'Controlling cookies | Cookies.education'
+shortname: 'Controlling cookies'
 lang: 'en'
 ---
 

@@ -1,6 +1,7 @@
 ---
 next: 'cookies-definition'
 title: 'What are website Cookies? Why should I care? | Cookies.education'
+shortname: 'Home'
 lang: 'en'
 ---
 

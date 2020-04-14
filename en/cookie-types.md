@@ -1,5 +1,6 @@
 ---
 title: 'Types of Cookies: analytical, functional, marketing | Cookies.education'
+shortname: 'Types of Cookies'
 next: 'third-party-cookies'
 lang: 'en'
 ---

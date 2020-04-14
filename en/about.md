@@ -1,5 +1,6 @@
 ---
 title: "About Cookies.education"
+shortname: 'About'
 lang: en
 ---
 

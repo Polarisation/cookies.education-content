@@ -1,6 +1,7 @@
 ---
 next: 'cookie-types'
 title: 'What are Web Cookies? | Cookies.education'
+shortname: 'What are cookies?'
 lang: 'en'
 ---
 

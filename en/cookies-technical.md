@@ -1,6 +1,7 @@
 ---
 next: 'cookie-types'
 title: 'HTTP Cookies: the technical details  | Cookies.education'
+shortname: 'Technical details'
 lang: 'en'
 ---
 
